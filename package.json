@@ -26,13 +26,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rohanchaudhary94/nodejs-auth.git"
+    "url": "https://github.com/bilalahmad3013/nodeAuthnetication"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Rohanchaudhary94/nodejs-auth/issues"
+    "url": "https://github.com/bilalahmad3013/nodeAuthnetication"
   },
-  "homepage": "https://github.com/Rohanchaudhary94/nodejs-auth#readme"
+  "homepage": "https://github.com/bilalahmad3013/nodeAuthnetication"
 }
