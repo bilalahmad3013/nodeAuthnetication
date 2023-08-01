@@ -14,6 +14,7 @@ const User = require('../models/User');
 exports.registerHandle = (req, res) => {
     const { name, email, password, password2 } = req.body;
     let errors = [];
+    let errors1=["BILAL"];
 
     //------------ Checking required fields ------------//
     if (!name || !email || !password || !password2) {
